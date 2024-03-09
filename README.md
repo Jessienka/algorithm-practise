@@ -2,7 +2,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/comeonboi/leetcode-solutions) [![GitHub issues](https://img.shields.io/github/issues-raw/comeonboi/leetcode-solutions)](https://github.com/comeonboi/leetcode-solutions/issues) [![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/comeonboi/leetcode-solutions)](https://github.com/comeonboi/leetcode-solutions/pulls) [![GitHub contributors](https://img.shields.io/github/contributors/comeonboi/leetcode-solutions)](https://github.com/comeonboi/leetcode-solutions/graphs/contributors)
 
-A collection of LeetCode problems and solutions created by HeyHey大魔王 and 龙龙.
+A collection of LeetCode problems and solutions created by Jessienka.
 
 ## Problems
 
@@ -23,12 +23,10 @@ We welcome contributions! If you want to add a solution:
 4. Commit your changes and push to your branch.
 5. Create a pull request and we'll review your code.
 
-## Contributors
+## Practise Content
 
-Thank you to all the contributors who have helped create and maintain this repository!
+https://neetcode.io/roadmap
 
-* [HeyHey大魔王](https://github.com/comeonboi)
-* [龙龙](https://github.com/longsizhuo123)
 
 ## License
 
