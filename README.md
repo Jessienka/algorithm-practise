@@ -23,12 +23,10 @@ We welcome contributions! If you want to add a solution:
 4. Commit your changes and push to your branch.
 5. Create a pull request and we'll review your code.
 
-## Contributors
+## Practise Content
 
-Thank you to all the contributors who have helped create and maintain this repository!
+https://neetcode.io/roadmap
 
-* [HeyHey大魔王](https://github.com/comeonboi)
-* [龙龙](https://github.com/longsizhuo123)
 
 ## License
 
